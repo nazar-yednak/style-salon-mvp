@@ -20,4 +20,4 @@ MVP без embeddings; сховище PostgreSQL не стає джерелом 
 Зберігати внутрішній ID, Calendar event ID, ключ операції, версію та статус синхронізації. Тайм-аут → звірка до повтору. При перенесенні зберігати старий запис до успіху.
 Прямі правки Calendar/Sheets поза ботом обмежені; процедуру виявлення розбіжностей потрібно реалізувати.
 Резервування AI-бюджету враховує паралельні виклики. SDK/backend/n8n мають спільний облік спроб.
-Докладно: [потоки](data-flow.md), [контекст](context-strategy.md), [моделі](model-strategy.md), [експлуатація](operations.md), [карта](documentation-map.md).
+Докладно: [потоки](data-flow.md), [контекст](context-memory-strategy.md), [моделі](model-strategy.md), [експлуатація](operations.md), [карта](documentation-map.md).

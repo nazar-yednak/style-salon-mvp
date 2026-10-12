@@ -13,7 +13,7 @@ Docker Compose: backend TypeScript/Node.js, n8n, PostgreSQL. Docker є; ресу
 
 ## Сповіщення й бюджет
 Адмін отримує операційні й бюджетні сповіщення та керує лімітами явною дією. Моніторинг: [Model Strategy](model-strategy.md).
-Простій і пропущені нагадування: [Context Strategy](context-strategy.md).
+Простій і пропущені нагадування: [Context Strategy](context-memory-strategy.md).
 Локальний бюджет невідомий: AI + додаткова електрика + копії + диск за потреби. VPS не орендується; при polling тунель не потрібен.
 
 ## Невиконані перевірки

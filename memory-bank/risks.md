@@ -42,4 +42,4 @@
 | R29 | Суперечливі версії документації | Карта власників даних, актуальні кореневі документи, архів окремо |
 
 R01 контролюється backend-блокуванням; Sheets не надає транзакційної гарантії всьому циклу. Конкретний механізм ще розробити.
-Закриті бізнес-питання не повторюються тут; [відкритий реєстр](open-questions.md). Контроль: [Context Strategy](context-strategy.md), [Model Strategy](model-strategy.md), [Експлуатація](operations.md).
+Закриті бізнес-питання не повторюються тут; [відкритий реєстр](open-questions.md). Контроль: [Context Strategy](context-memory-strategy.md), [Model Strategy](model-strategy.md), [Експлуатація](operations.md).

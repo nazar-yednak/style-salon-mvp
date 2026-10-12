@@ -12,7 +12,7 @@
 | Компоненти й межі відповідальності | [Architecture](architecture.md) |
 | Дані, стани й послідовності | [Data Flow](data-flow.md) |
 | Моделі, reasoning, fallback, кошторис і ліміти | [Model Strategy](model-strategy.md) |
-| Промпти, контекст, пам’ять, індекс, кеші, API, retries | [Context Strategy](context-strategy.md) |
+| Промпти, контекст, пам’ять, індекс, кеші, API, retries | [Context Strategy](context-memory-strategy.md) |
 | Локальне розгортання, копії, простій | [Експлуатація](operations.md) |
 | Що робити й перевіряти | [Tasks](tasks.md) |
 | Що ще потрібно вирішити | [Відкриті питання](open-questions.md) |
@@ -59,7 +59,7 @@ flowchart LR
 | Зрозуміти продукт | vision.md → features.md → business-rules.md |
 | Продовжити роботу | activeContext.md → tasks.md → open-questions.md |
 | Реалізувати запис | architecture.md → data-flow.md → business-rules.md |
-| Налаштувати AI | model-strategy.md → context-strategy.md |
+| Налаштувати AI | model-strategy.md → context-memory-strategy.md |
 | Запуск або відновлення | operations.md → architecture.md |
 | Перевірити підставу рішення | decisions.md → потрібне актуальне джерело; архів лише за потреби |
 

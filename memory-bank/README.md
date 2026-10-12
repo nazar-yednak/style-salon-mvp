@@ -9,7 +9,7 @@
 [Бачення](vision.md) · [Функції](features.md) · [Бізнес-правила](business-rules.md)
 
 ## Технічні рішення
-[Архітектура](architecture.md) · [Потоки даних](data-flow.md) · [Моделі та бюджет](model-strategy.md) · [Контекст і пам’ять](context-strategy.md) · [Експлуатація](operations.md)
+[Архітектура](architecture.md) · [Потоки даних](data-flow.md) · [Моделі та бюджет](model-strategy.md) · [Контекст і пам’ять](context-memory-strategy.md) · [Експлуатація](operations.md)
 
 ## Керування роботою
 [Завдання](tasks.md) · [Відкриті питання](open-questions.md) · [Ризики](risks.md) · [Рішення](decisions.md) · [Прогрес](progress.md) · [Джерела](research.md)

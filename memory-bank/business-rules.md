@@ -38,7 +38,7 @@ FAQ, описи й правила підготовлено на Google Drive; п
 Погоджена локальна архітектура: [Architecture](architecture.md). Конфігурація, копії й простій: [Експлуатація](operations.md).
 
 ## Кеш, API й бюджет
-Основне джерело контекстних правил: [Context Strategy](context-strategy.md). Моделі, кошторис і бюджети: [Model Strategy](model-strategy.md).
+Основне джерело контекстних правил: [Context Strategy](context-memory-strategy.md). Моделі, кошторис і бюджети: [Model Strategy](model-strategy.md).
 
 ## План і приймання
 Виконавець і відповідальний за пілот — користувач. Дата старту невідома. Орієнтир 4–6 тижнів реалізації плюс 2 тижні пілоту. Критерії: [Vision](vision.md). Поточні незакриті питання: [реєстр](open-questions.md).
