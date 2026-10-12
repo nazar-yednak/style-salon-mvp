@@ -1,0 +1,4 @@
+interface:
+  display_name: "Memory Bank Autopilot"
+  short_description: "Run low-friction persistent project memory workflows."
+  default_prompt: "Use $memory-bank-autopilot to initialize or continue this workspace while preserving existing Memory Bank files and project instructions."

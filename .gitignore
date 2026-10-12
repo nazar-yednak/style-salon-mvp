@@ -1,0 +1,36 @@
+# Секрети й локальні доступи
+.env
+.env.*
+!.env.example
+secrets/
+credentials/
+access/
+*.key
+*.pem
+*.p12
+*.pfx
+*credentials*.json
+*service-account*.json
+accounts.local.*
+access.local.*
+
+# Залежності, збірки й тимчасові дані
+node_modules/
+dist/
+build/
+coverage/
+*.log
+*.tmp
+~$*
+.DS_Store
+Thumbs.db
+
+# Локальні дані сервісів і резервні копії
+runtime-data/
+backups/
+.n8n/
+postgres-data/
+
+# Локальні налаштування асистента
+.codex/
+.agents/
