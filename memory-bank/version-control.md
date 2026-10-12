@@ -1,6 +1,6 @@
 # Контроль версій — Git
 
-Локальний репозиторій у D:\memory_bank. Віддалений репозиторій не створено; публікація потребує окремого запиту користувача.
+Локальний репозиторій у D:\memory_bank. Приватний віддалений репозиторій: [nazar-yednak/style-salon-mvp](https://github.com/nazar-yednak/style-salon-mvp). Remote origin: https://github.com/nazar-yednak/style-salon-mvp.git. Гілка main відстежує origin/main. Створення й початкове завантаження погоджені користувачем.
 
 ## Правила
 - Коміт — значущий завершений набір змін із коротким поясненням.
