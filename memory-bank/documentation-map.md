@@ -24,6 +24,7 @@
 | Вихідний скоуп | [SVG](drafts/inputs/salon-agent.svg) |
 | Попередні версії | [Архів](archive/README.md) |
 | Історія змін у Git і правила комітів | [Контроль версій](version-control.md) |
+| Актуальність і відповідність формату здачі | [Звіт перевірки](validation-report.md) |
 | Віддалений репозиторій | [Публічний GitHub style-salon-mvp](https://github.com/nazar-yednak/style-salon-mvp) |
 
 ## Карта компонентів
