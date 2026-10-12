@@ -8,4 +8,4 @@
 Наступний крок: посилання Drive, ID/акаунти, демонстраційні майстри, підтвердження polling, ресурси й режим без сну.
 Дата старту й локальний бюджет невідомі. Решта: [Open Questions](open-questions.md).
 Навігація: [карта](documentation-map.md), [задачі](tasks.md), [глосарій](glossary.md). Не завантажувати всі документи чи архів без потреби.
-Контроль версій: Git main → origin/main; приватний GitHub nazar-yednak/style-salon-mvp. Правила: [version-control.md](version-control.md).
+Контроль версій: Git main → origin/main; публічний GitHub nazar-yednak/style-salon-mvp. Правила: [version-control.md](version-control.md).
