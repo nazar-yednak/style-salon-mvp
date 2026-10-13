@@ -1,6 +1,6 @@
 # Карта документації та проєкту
 
-Оновлено 2026-10-12. Основна точка навігації; не передається клієнтській моделі.
+Оновлено 2026-10-13. Основна точка навігації; не передається клієнтській моделі.
 
 ## Де шукати
 Документи згруповані за призначенням у [README](README.md), фізичні шляхи залишаються стабільними. Резервні projects/ та reflection/ не є частиною обов’язкового читання.
@@ -14,9 +14,10 @@
 | Моделі, reasoning, fallback, кошторис і ліміти | [Model Strategy](model-strategy.md) |
 | Промпти, контекст, пам’ять, індекс, кеші, API, retries | [Context Strategy](context-memory-strategy.md) |
 | Локальне розгортання, копії, простій | [Експлуатація](operations.md) |
-| Що робити й перевіряти | [Tasks](tasks.md) |
+| Облік юніта, собівартість, Assumptions, навантаження й пропозиції змін | [Unit Economics and Load Strategy](unit-economics-and-load-strategy.md) |
+| Що робити й перевіряти, включно з UE01–UE04 | [Tasks](tasks.md) |
 | Що ще потрібно вирішити | [Відкриті питання](open-questions.md) |
-| Ризики | [Risks](risks.md) |
+| Ризики, включно з обліком юніта й піковим навантаженням R30–R32 | [Risks](risks.md) |
 | Чому прийнято рішення | [Журнал рішень](decisions.md) |
 | Що фактично зроблено | [Progress](progress.md) |
 | Джерела й обмеження перевірки | [Research](research.md) |
@@ -61,6 +62,7 @@ flowchart LR
 | Продовжити роботу | activeContext.md → tasks.md → open-questions.md |
 | Реалізувати запис | architecture.md → data-flow.md → business-rules.md |
 | Налаштувати AI | model-strategy.md → context-memory-strategy.md |
+| Оцінити собівартість і навантаження | unit-economics-and-load-strategy.md → model-strategy.md → operations.md |
 | Запуск або відновлення | operations.md → architecture.md |
 | Перевірити підставу рішення | decisions.md → потрібне актуальне джерело; архів лише за потреби |
 

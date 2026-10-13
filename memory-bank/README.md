@@ -12,6 +12,8 @@
 ## Технічні рішення
 [Архітектура](architecture.md) · [Потоки даних](data-flow.md) · [Моделі та бюджет](model-strategy.md) · [Контекст і пам’ять](context-memory-strategy.md) · [Експлуатація](operations.md)
 
+[Собівартість запису й навантаження](unit-economics-and-load-strategy.md) — юніт, формули, рівні навантаження та рекомендації.
+
 ## Керування роботою
 [Завдання](tasks.md) · [Відкриті питання](open-questions.md) · [Ризики](risks.md) · [Рішення](decisions.md) · [Прогрес](progress.md) · [Джерела](research.md)
 
